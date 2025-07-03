@@ -2,22 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://laughking.github.io/sage-page/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <lastmod>2025-07-03</lastmod>
     </url>
     <url>
-         <loc>https://laughking.github.io/sage-page/api/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <loc>https://laughking.github.io/sage-page/dashboard/dag_visualization/</loc>
+         <lastmod>2025-07-03</lastmod>
     </url>
     <url>
-         <loc>https://laughking.github.io/sage-page/architecture/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <loc>https://laughking.github.io/sage-page/dashboard/dnd_construction/</loc>
+         <lastmod>2025-07-03</lastmod>
     </url>
     <url>
-         <loc>https://laughking.github.io/sage-page/quickstart/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <loc>https://laughking.github.io/sage-page/dashboard/live_monitoring/</loc>
+         <lastmod>2025-07-03</lastmod>
     </url>
     <url>
-         <loc>https://laughking.github.io/sage-page/usage/</loc>
-         <lastmod>2025-06-24</lastmod>
+         <loc>https://laughking.github.io/sage-page/examples/advanced/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/examples/integration/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/examples/minimal/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/framework/philosophy/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/get_start/install/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/get_start/quickstart/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/guides/components/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/sage_commen_funs/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/sage_memory/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/sage_runtime/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/sage_tests/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/sage_vectors/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/api/memory/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/api/model/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/api/operator/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/api/pipeline/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/api/query/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/compiler/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/dag/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/engine/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/graph/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/io/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/metrics/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/model/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/neuromem/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/operator/</loc>
+         <lastmod>2025-07-03</lastmod>
+    </url>
+    <url>
+         <loc>https://laughking.github.io/sage-page/reference/sage/core/runtime/</loc>
+         <lastmod>2025-07-03</lastmod>
     </url>
 </urlset>
